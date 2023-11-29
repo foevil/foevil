@@ -10,7 +10,7 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=foevil&theme=transparent" alt="GitHub Streak" /></a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foevil&bg_color=0d1117&color=58c6e4&line=58c6e4&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=foevil&bg_color=0d1117&color=58c6e4&line=58c6e4&point=ffffff&area=true&hide_border=true)](https://github.com/foevil)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
