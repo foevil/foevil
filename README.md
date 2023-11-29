@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&background=FF000000&multiline=true&random=false&width=800&height=100&lines=Hello+I+am+FOEVIL;A+passionate+frontend+developer+from+India" alt="Typing SVG" /></a>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2yw263jwwcy1y8ws4a1kmv12o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=2yw263jwwcy1y8ws4a1kmv12o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foevil" alt="foevil" /></a> </p>
 
