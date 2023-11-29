@@ -1,5 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&background=FF000000&multiline=true&random=false&width=447&lines=Hello+I+am+FOEVIL;A+passionate+frontend+developer+from+India" alt="Typing SVG" /></a>
 
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foevil&label=Profile%20views&color=0e75b6&style=flat" alt="foevil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=foevil" alt="foevil" /></a> </p>
