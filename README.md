@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&background=FF000000&multiline=true&random=false&width=800&height=100&lines=Hello+I+am+FOEVIL;A+passionate+frontend+developer+from+India" alt="Typing SVG" /></a>
 
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=2yw263jwwcy1y8ws4a1kmv12o&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=2yw263jwwcy1y8ws4a1kmv12o&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color_cover=false)]]
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=foevil&label=Profile%20views&color=0e75b6&style=flat" alt="foevil" /> </p>
 
