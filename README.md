@@ -77,7 +77,7 @@
 
 ###
 
-<img align="right" height="250" src="https://spotify-github-profile.vercel.app/api/view?uid=2yw263jwwcy1y8ws4a1kmv12o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"  />
+<img align="right" height="350" src="https://spotify-github-profile.vercel.app/api/view?uid=2yw263jwwcy1y8ws4a1kmv12o&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"  />
 
 ###
 
