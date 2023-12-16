@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋! My name is FOEVIL and I'm a ..., from ....</h1>
 
 ###
+<p align="center">
+    <a style="text-decoration: none;" href="http://papertoilet.com/">
+        <img
+            src="https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=00AA00"
+            alt="View Count"
+            title="View count (click for something interesting)">
+    </a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=foevil&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
