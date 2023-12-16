@@ -4,7 +4,7 @@
 <p align="center">
     <a style="text-decoration: none;" href="http://papertoilet.com/">
         <img
-            src="https://komarev.com/ghpvc/?username=ptrvsrg&style=for-the-badge&color=00AA00"
+            src="https://komarev.com/ghpvc/?username=foevil&style=for-the-badge&color=00AA00"
             alt="View Count"
             title="View count (click for something interesting)">
     </a>
